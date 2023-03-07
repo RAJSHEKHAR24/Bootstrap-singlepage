@@ -1,0 +1,30 @@
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+font-weight: 450;
+}
+p{
+    color: rgb(239, 239, 239);  
+    font-weight: 800;  
+}
+#DA1{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+}
+#DA2{color: rgb(18, 18, 15);  
+font-weight: 800;  
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+}
+#DA3{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+}
+#ga1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+
+}
